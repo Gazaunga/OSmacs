@@ -2,4 +2,4 @@
 
 Forked from https://gitlab.com/dperezr/dot-emacs-dot-d
 
-[[./osmacs.png]]
+![Osmacs](https://github.com/Gazaunga/OSmacs/blob/master/osmacs.png)
