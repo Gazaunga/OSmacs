@@ -1,0 +1,1 @@
+(global-visual-line-mode)
